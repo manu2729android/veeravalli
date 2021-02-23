@@ -13,5 +13,5 @@ $json = '[ {
         "tags": [],
         "status": "available"
     }]';
-    return $json ;
+    echo $json ;
     ?>
